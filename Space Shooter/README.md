@@ -4,6 +4,6 @@ Unfolding Gamedev (Youtube channel) - space shooter tutorial completed (very goo
 
 Thanks to his channel i can learn game devoloping in an engine that fits me.
 
-Link to his channel if you wanna learn about defold: https://www.youtube.com/@unfolding_gamedev
+Here is a link to the channel if you wanna learn about defold: https://www.youtube.com/@unfolding_gamedev
 
 ---
